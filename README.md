@@ -1,0 +1,2 @@
+# StudentManagementSystem
+Management System with frontend using JAVA 8 and backend using oracle
